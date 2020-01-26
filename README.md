@@ -17,5 +17,7 @@ I plan to become a data analyst after graduation :) BTW I really love STATISTICS
 Here is the place where I update my learning process of data visulization
 
 # Explore the government bar chart
-https://github.com/fang-da-mao/Fang-portfolio
+linke to this site: https://fang-da-mao.github.io/Fang-portfolio/
+
+expore the data story...
 <iframe src="https://data.oecd.org/chart/5Pfk" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Pfk" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
