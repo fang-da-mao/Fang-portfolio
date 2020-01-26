@@ -16,7 +16,7 @@ I plan to become a data analyst after graduation :) BTW I really love STATISTICS
 # Portfolio
 Here is the place where I update my learning process of data visulization
 
-# Explore the government bar chart
+# Explore the government debt bar chart
 linke to this site: https://fang-da-mao.github.io/Fang-portfolio/
 
 expore the data story...
