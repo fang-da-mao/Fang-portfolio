@@ -14,5 +14,6 @@ I hope to learn how to make a good design for data visulization from many perspe
 I plan to become a data analyst after graduation :) BTW I really love STATISTICS.
 
 # Portfolio
-Here is the place where I update my learning process of data visulization. 
-![Alt text](https://data.oecd.org/chart/5Pfk)
+Here is the place where I update my learning process of data visulization.
+
+![Alt text](<iframe src="https://data.oecd.org/chart/5Pfk" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5Pfk" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>)
