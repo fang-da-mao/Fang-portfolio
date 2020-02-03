@@ -53,13 +53,13 @@ After discovering the problem of the original data visualization: the comparison
 
 I decided to use bar chart to represent the data. I want to make each disease be a pair and choose a color for each pair. And represent in descending order to make it clear for the audience to see the trend.
 
-![wireframe](https://github.com/fang-da-mao/Fang-portfolio/blob/master/images/wireframe.PNG)
+![wireframe](wireframe.PNG)
 
 ## Test the solution
 I asked my friends to measure my wireframe using Stephen Few's method. They think it is good except the chart is still to colorful and might not be very friendly to color blindness group. So I decide to make two charts (in comparison) to complete the visualization.
 
 ## My final solution
 
-![final solution](https://github.com/fang-da-mao/Fang-portfolio/blob/master/images/donate.png)
+![final solution](donate.png)
 
 In this case, I choose to use two charts to finish the visualization. The left bar chart represents the number of death of each disease, and the right chart represents the money donated in million. I show the death number in a descending order to help the audience see the trend more straight forward. Also, with two charts in pairs, I could avoid using color to differentiate each disease group, and in this way, the visualization could be more friendly to color blindness people.
