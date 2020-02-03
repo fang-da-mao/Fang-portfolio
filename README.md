@@ -40,3 +40,16 @@ For x axis, it represents the year. Each color represents a different location. 
 
 ## comparison: 
 The beeswarm plot is a one-dimensional scatter plot like "stripchart", but with closely-packed, non-overlapping points. Compared to beeswarm, the area graph could better represent the trend of the value change of the location over the year. 
+
+
+# Assignment 3&4:
+## Link to original data visualization
+[WHERE WE DONATE VS. DISEASES THAT KILL US](https://www.vox.com/2014/8/20/6040435/als-ice-bucket-challenge-and-why-we-give-to-charity-donate)
+
+I select this data visualization is because I am interested in charity donation. The chart talks about the relationship among donation and number of death of the disease. It is an interesting topic to discover, also the chart uses a special way to represent the data.
+
+## wireframe a solution
+After discovering the problem of the original data visualization: the comparison of the left chart and the right chart is not in pairs, the donate money circle in the left does not match the death number circle in the right, which could easily make the audience confused. And the size of circle is not a correct parameter of the number, the comparison among the circle areas cannot represent the true relationship among numbers.
+
+I decided to use bar chart to represent the data. I want to make each disease be a pair and choose a color for each pair. And represent in descending order to make it clear for the audience to see the trend.
+
