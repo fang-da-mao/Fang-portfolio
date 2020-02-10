@@ -14,6 +14,7 @@ First, there is going to be map of crime, showing some major zones of crime acci
 I will get data from two sources below:
 
 [Pittsburgh Arrest Data] (https://data.wprdc.org/dataset/arrest-data)
+
 [Pittsburgh Firearm Seizure] (https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
 
 I plan to analyze available Pittsburgh arrest data for 2016-2019, and weapon ownership data in order to discover trends, identify association between factors, discover clusters or segments and provide the audience with relevant recommendations.
