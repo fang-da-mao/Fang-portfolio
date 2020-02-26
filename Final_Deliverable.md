@@ -69,7 +69,7 @@ Based on the crime data and firearms data of Pittsburgh from 2016-2019, I hope t
 After the wireframe is revised, I start to do the visualization part. To complete that visualization part, I decide to employ map, histogram, bubble chart and line chart using Tableau. The reason why I chose map is obvious, to present the audience with the crime map of Pittsburgh and give them a straight forward sense of safe zones in Pittsburgh. I use histogram and bubble chart to analyze the crime incidents numbers and firearm accidents, and finally, the line chart to present the trend of crime rate over a day. 
 
 ## Updated Github Repository
-[Github Repository] (https://fang-da-mao.github.io/Fang-portfolio/)
+[Github Repository] (https://fang-da-mao.github.io/Fang-portfolio/Final_Deliverable.md)
 
 ## Final Story on Shorthand
 [How to Stay Safe in Pittsburgh] (https://preview.shorthand.com/Hk0Z6Wc6su2OOfyW)
