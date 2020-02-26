@@ -76,6 +76,8 @@ After the wireframe is revised, I start to do the visualization part. To complet
 
 ## References
 [1] [Source for Pittsburgh Arrest Data:] (https://data.wprdc.org/dataset/arrest-data)  
+
 [2] [Source for Pittsburgh Firearm Seizure:] (https://data.wprdc.org/dataset/pbp-fire-arm-seizures)
+
 [3] [Advice under firearms] (https://theintercept.com/2017/12/28/how-the-interrogation-of-reality-winner-reveals-the-deceptive-tactics-of-exceedingly-friendly-fbi-agents/?comments=1)
 
