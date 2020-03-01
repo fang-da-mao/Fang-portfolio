@@ -15,6 +15,7 @@ I plan to become a data analyst after graduation :) BTW I really love STATISTICS
 
 # Portfolio
 Here is the place where I update my learning process of data visulization
+
 Below is the link for my final deliveralbe of this course: 
 [Final Deliverable](https://fang-da-mao.github.io/Fang-portfolio/Final_Deliverable)
 
