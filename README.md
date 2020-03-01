@@ -21,9 +21,9 @@ Below is the link for my final deliveralbe of this course:
 
 For more detials:
 
-[Final project part1] (https://fang-da-mao.github.io/Fang-portfolio/final_part1)
+[Final project part1](https://fang-da-mao.github.io/Fang-portfolio/final_part1)
 
-[Final project part2] (https://fang-da-mao.github.io/Fang-portfolio/project_part2)
+[Final project part2](https://fang-da-mao.github.io/Fang-portfolio/project_part2)
 
 
 
