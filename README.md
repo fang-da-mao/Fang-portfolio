@@ -19,4 +19,11 @@ Here is the place where I update my learning process of data visulization
 Below is the link for my final deliveralbe of this course: 
 [Final Deliverable](https://fang-da-mao.github.io/Fang-portfolio/Final_Deliverable)
 
+For more detials:
+[Final project part1] (https://fang-da-mao.github.io/Fang-portfolio/final_part1)
+
+[Final project part2] (https://fang-da-mao.github.io/Fang-portfolio/project_part2)
+
+
+
 
